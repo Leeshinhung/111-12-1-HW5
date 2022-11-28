@@ -1,0 +1,4 @@
+﻿  p05.c
+c:\users\user\desktop\程式\111-12-1-hw5\p05\p05\p05.c(10): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+c:\users\user\desktop\程式\111-12-1-hw5\p05\p05\p05.c(10): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 2 的類型為 'int'
+  p05.vcxproj -> C:\Users\USER\Desktop\程式\111-12-1-HW5\p05\Debug\p05.exe
